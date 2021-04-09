@@ -39,3 +39,5 @@ I think combining the tweets with the colorful/moving background and adding musi
 ## Artist Statement
 
 Unreal tweets aim to embed tracery-generated tweets in an audiovisual environment, to draw the attention of the user to the tweets, and also bring out the fun/playful/offensive aspect of the randomly generated tweets. The project builds directly on the p5.js sound library as well. I might be able to further develop the project by introducing random visual elements and maybe more sound effects and visual shapes so every time the user clicks they get different sound effects and a shape, to increase the stimulations. 
+
+Link to YouTube Video: https://www.youtube.com/watch?v=SGbb18DCKPE&ab_channel=HanaeHmimid
