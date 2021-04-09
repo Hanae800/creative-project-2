@@ -28,7 +28,7 @@ I think combining the tweets with the colorful/moving background and the adding 
 
 1. Open the p5.js browser editor
 2. Upload the sketch.js file available in this repository of this project
-3. Access the library here **https://github.com/galaxykate/tracery/blob/master/index.html**
+3. Access the library here **https://github.com/galaxykate/tracery/blob/master/index.html** or download it from this repository file name **tracery.js**
 4. Include the tracery library in the index file (access tab in the dropdown menu to the left) 
 5. Save the file
 6. Run the sketch
