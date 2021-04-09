@@ -32,9 +32,9 @@ I think combining the tweets with the colorful/moving background and the adding 
 4. Include the tracery library in the index file (access tab in the dropdown menu to the left) 
 5. Save the file
 6. Run the sketch
-7. enjoy the results and keep clicking until you grow tired of the funny tweets
-8. Alos you can just use the full screen version available at the following link: https://editor.p5js.org/Hanae800/full/kTr_23M0e
-9. Enjoy the tracery geenrated Unreal tweets! 
+7. Enjoy the results and keep clicking until you grow tired of the funny tweets
+8. Also you can just use the full screen version available at the following link: https://editor.p5js.org/Hanae800/full/kTr_23M0e
+9. Enjoy the tracery geenrated **Unreal tweets!** 
 
 ## Artist Statement
 
