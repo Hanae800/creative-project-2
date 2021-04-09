@@ -28,10 +28,12 @@ I think combining the tweets with the colorful/moving background and the adding 
 
 1. Open the p5.js browser editor
 2. Upload the sketch.js file available in this repository of this project
-3. Run the sketch
-4. enjoy the results and keep clicking until you grow tired of the funny tweets
-5. Alos you can just use the full screen version available at the following link: https://editor.p5js.org/Hanae800/full/kTr_23M0e
-6. Enjoy the tracery geenrated Unreal tweets! 
+3. Include the tracery library in the index file (access tab in the dropdown menu to the left) **<script src="https://cdn.rawgit.com/v21/tracery/master/tracery.js"></script>**
+4. Save the file
+5. Run the sketch
+6. enjoy the results and keep clicking until you grow tired of the funny tweets
+7. Alos you can just use the full screen version available at the following link: https://editor.p5js.org/Hanae800/full/kTr_23M0e
+8. Enjoy the tracery geenrated Unreal tweets! 
 
 ## Artist Statement
 
